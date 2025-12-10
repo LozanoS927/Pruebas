@@ -31,4 +31,9 @@ body{
     height: 100%;
     border-radius: 60%;
     margin: auto;
+
 }
+.pruebas{
+    background-color: blue;
+    border: 2px black solid;
+    text-align: center;
